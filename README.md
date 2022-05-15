@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe-woahie&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloe-woahie&exclude_repo=taucat-sketches&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chloe-woahie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Chloe-Woahie/Chloe-Woahie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
